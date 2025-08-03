@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @PRAJITHA MARY
-- 👀 I’m interested in Web Development 
+- 👀 I’m interested in Data Analytics 
 - 🌱 I’m currently learning Computer Science and Engineering 
-- 💞️ I’m looking to collaborate on UI/UX Designers,Frontend Developers,Backend Developers
 - 📫 How to reach me on LinkedIn and Instagram
 - 😄 Pronouns: She or Her
 - ⚡ Fun fact: Nothing 😅 
