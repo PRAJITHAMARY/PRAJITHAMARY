@@ -16,11 +16,17 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=CBA6F7&center=true&vCenter=true&width=700&lines=Software+Engineer;Data+Analyst;Artificial+Intelligence+Enthusiast;Machine+Learning+Developer;Full+Stack+Developer;Open+Source+Contributor;Building+solutions+with+creativity+and+code+%F0%9F%92%9C" />
 </h3>
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=PRAJITHAMARY&label=Profile%20Views&color=CBA6F7&style=flat"/>
+</p>
+
 <table align="center">
 
 <tr>
 
 <td width="65%">
+
+
 
 ## 💜 Hello there!
 
@@ -66,11 +72,10 @@ Currently Learning:
 Goal:
   Build scalable applications that solve real-world problems.
 ```
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=CBA6F7&height=2&section=header"/>
 
 
 ## 🚀 Tech Stack
-
+  
 ### Programming Languages
 
 <p>
@@ -297,6 +302,10 @@ Learning, contributing, and collaborating with the developer community.
 
 <br>
 
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=PRAJITHAMARY&theme=algolia&no-frame=true&no-bg=true&margin-w=10"/>
+</p>
+
 <!-- ====================================================== -->
 <!--                GITHUB ACTIVITY                         -->
 <!-- ====================================================== -->
@@ -317,16 +326,111 @@ Learning, contributing, and collaborating with the developer community.
 <br>
 
 <!-- ====================================================== -->
-<!--                  SECTION DIVIDER                       -->
+<!--                 FEATURED PROJECTS                      -->
 <!-- ====================================================== -->
-
-<p align="center">
-<img src="assets/banner.png" width="100%">
-</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=CBA6F7&height=2&section=header"/>
 
-## 🌸 Let's Connect
+<h2 align="center">🚀 Featured Projects</h2>
+
+<p align="center">
+A selection of projects that showcase my skills in software development, AI, machine learning, and data analytics.
+</p>
+
+<p align="center">
+
+<a href="https://github.com/PRAJITHAMARY/YOUR_REPO_NAME">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=PRAJITHAMARY&repo=YOUR_REPO_NAME&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/PRAJITHAMARY/YOUR_REPO_NAME2">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=PRAJITHAMARY&repo=YOUR_REPO_NAME2&theme=tokyonight&hide_border=true"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/PRAJITHAMARY/YOUR_REPO_NAME3">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=PRAJITHAMARY&repo=YOUR_REPO_NAME3&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/PRAJITHAMARY/YOUR_REPO_NAME4">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=PRAJITHAMARY&repo=YOUR_REPO_NAME4&theme=tokyonight&hide_border=true"/>
+</a>
+
+</p>
+
+<br>
+
+<!-- ====================================================== -->
+<!--                  CERTIFICATIONS                        -->
+<!-- ====================================================== -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=CBA6F7&height=2&section=header"/>
+
+<h2 align="center">🏆 Certifications</h2>
+
+<p align="center">
+
+
+🥇 Oracle Cloud Infrastructure Foundations
+
+<br>
+
+🥇 Oracle AI Foundations
+
+<br>
+
+🥇 NPTEL Certifications
+
+<br>
+
+🥇 Coursera Learning
+
+</p>
+
+<br>
+
+<!-- ====================================================== -->
+<!--                 ACHIEVEMENTS                           -->
+<!-- ====================================================== -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=CBA6F7&height=2&section=header"/>
+
+<h2 align="center">🌟 Achievements</h2>
+
+<p align="center">
+
+💜 Passionate Open Source Learner
+
+<br>
+
+🚀 Building AI & Full Stack Projects
+
+<br>
+
+📚 Continuous Learner
+
+<br>
+
+💻 Problem Solver
+
+</p>
+
+<br>
+
+
+<!-- ====================================================== -->
+<!--                  SECTION DIVIDER                       -->
+<!-- ====================================================== -->
+
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=CBA6F7&height=2&section=header"/>
+
+
+<h2 align="center">🌸 Let's Connect</h2>
+
 
 <p align="center">
 
@@ -343,9 +447,11 @@ Learning, contributing, and collaborating with the developer community.
 </p>
 
 <p align="center">
-
+  
 💜 Thank you for visiting my profile!
 
-⭐ Don't forget to explore my repositories ⭐
+⭐ Don't forget to explore my repositories ⭐</p>
 
-</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=CBA6F7&height=140&section=footer"/>
+
