@@ -11,7 +11,7 @@
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=CBA6F7&center=true&vCenter=true&width=700&lines=Software+Engineer;Data+Analyst;Artificial+Intelligence+Enthusiast;Machine+Learning+Developer;Full+Stack+Developer;Open+Source+Contributor;Building+solutions+with+creativity+and+code+%F0%9F%92%9C" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=CBA6F7&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;Data+Analyst;Artificial+Intelligence+Enthusiast;Machine+Learning+Developer;Full+Stack+Developer;Open+Source+Contributor;Building+solutions+with+creativity+and+code+%F0%9F%92%9C" />
 </h3>
 
 <p align="center">
@@ -53,14 +53,15 @@ I love transforming ideas into impactful solutions while continuously learning a
 ```yaml
 Name: Prajitha Mary J
 
-Role: Software Engineer
+Role: Computer Science Engineering Student
 
 Passionate About:
-  - Artificial Intelligence
-  - Machine Learning
-  - Data Analytics
-  - Full Stack Development
-  - Open Source
+  - CSE Student
+  - AI & ML Enthusiast
+  - Data Analytics Explorer
+  - Full Stack Developer
+  - Problem Solver
+  - Building with AI & Data 
 
 Currently Learning:
   - Advanced Machine Learning
@@ -254,64 +255,19 @@ Learning, contributing, and collaborating with the developer community.
   <i>A glimpse into my coding journey.</i>
 </p>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=PRAJITHAMARY&show_icons=true&theme=dark&hide_border=true&title_color=CBA6F7&icon_color=9D4EDD"
-    height="180"
-    alt="Prajitha's GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRAJITHAMARY&layout=compact&theme=dark&hide_border=true&title_color=CBA6F7"
-    height="180"
-    alt="Top Languages"
-  />
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=CBA6F7&height=2&section=header"/>
-
-> *"Every expert was once a beginner. Every line of code is a step toward innovation."* 💜
-
-</div>
-
-<!-- ====================================================== -->
-<!--                  GITHUB STREAK                         -->
-<!-- ====================================================== -->
-
 <h2 align="center">🔥 GitHub Streak</h2>
 
-  <p align="center">
+<p align="center">
   <img
     src="https://streak-stats.demolab.com?user=PRAJITHAMARY&theme=dark&hide_border=true&background=0D1117&ring=CBA6F7&fire=9D4EDD&currStreakLabel=CBA6F7&sideLabels=CBA6F7&dates=B8B8C2"
     alt="GitHub Streak"
   />
-  </p>
-
-<br>
-
-<p align="center">
-  
-<img src="https://github-profile-trophy.vercel.app/?username=PRAJITHAMARY&theme=algolia&no-frame=true&no-bg=true&margin-w=10"/>
 </p>
 
-<!-- ====================================================== -->
-<!--                GITHUB ACTIVITY                         -->
-<!-- ====================================================== -->
+<p align="center">
+  <i>Consistency today, progress tomorrow. ✨</i>
+</p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=CBA6F7&height=2&section=header"/>
-
-<h2 align="center">📈 Contribution Activity</h2>
-
-  <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=PRAJITHAMARY&bg_color=0D1117&color=CBA6F7&line=9D4EDD&point=F5F3FF&area=true&hide_border=true"
-    alt="GitHub Activity Graph"
-  />
-  </p>
-
-<br>
 
 <!-- ====================================================== -->
 <!--                 ACHIEVEMENTS                           -->
