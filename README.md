@@ -313,36 +313,6 @@ Learning, contributing, and collaborating with the developer community.
 
 <br>
 
-
-<!-- ====================================================== -->
-<!--                  CERTIFICATIONS                        -->
-<!-- ====================================================== -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=CBA6F7&height=2&section=header"/>
-
-<h2 align="center">🏆 Certifications</h2>
-
-<p align="center">
-
-
-🥇 Oracle Cloud Infrastructure Foundations
-
-<br>
-
-🥇 Oracle AI Foundations
-
-<br>
-
-🥇 NPTEL Certifications
-
-<br>
-
-🥇 Coursera Learning
-
-</p>
-
-<br>
-
 <!-- ====================================================== -->
 <!--                 ACHIEVEMENTS                           -->
 <!-- ====================================================== -->
