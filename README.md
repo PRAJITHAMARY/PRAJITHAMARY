@@ -1,8 +1,6 @@
 <p align="center">
-<img src="assets/banner.png" width="100%">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=CBA6F7&height=100&section=footer"/>
 </p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=CBA6F7&height=2&section=header"/>
 
 <!-- =============================== -->
 <!--      PRAJITHA MARY J PROFILE     -->
@@ -66,7 +64,7 @@ Passionate About:
 
 Currently Learning:
   - Advanced Machine Learning
-  - Cloud Computing
+  - Programming Language
   - System Design
 
 Goal:
@@ -198,9 +196,9 @@ Learning ML algorithms, models, and real-world applications.
 
 ☁️
 
-### Cloud Computing
+### Power BI
 
-Expanding my knowledge of cloud technologies and deployment.
+Building my skills in data visualization, dashboards, and business intelligence using Power BI.
 
 </td>
 
@@ -244,24 +242,8 @@ Learning, contributing, and collaborating with the developer community.
 
 <br>
 
-## 🚀 Featured Projects
 
-| Project | Description |
-|----------|-------------|
-| 💬 AI Chatbot | Intelligent chatbot powered by NLP |
-| 📊 Data Dashboard | Interactive analytics dashboard |
-| 🌐 Portfolio Website | Responsive personal portfolio |
-| 🤖 ML Prediction | Machine Learning prediction model |
-
-<div align="center">
-
-> *"Every expert was once a beginner. Every line of code is a step toward innovation."* 💜
-
-</div>
-
-<!-- ====================================================== -->
-<!--                GITHUB ANALYTICS                        -->
-<!-- ====================================================== -->
+## 📊 GitHub Analytics
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=CBA6F7&height=2&section=header"/>
 
@@ -271,19 +253,24 @@ Learning, contributing, and collaborating with the developer community.
   <i>A glimpse into my coding journey.</i>
 </p>
 
-<br>
-
 <p align="center">
-
-  <img height="180"
-       src="https://github-readme-stats.vercel.app/api?username=PRAJITHAMARY&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=CBA6F7&icon_color=CBA6F7&text_color=F5F3FF"/>
-
-  <img height="180"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRAJITHAMARY&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=CBA6F7&text_color=F5F3FF"/>
-
+  <img src="YOUR_WORKING_STATS_URL" height="180"/>
+  <img src="YOUR_WORKING_LANGUAGES_URL" height="180"/>
 </p>
 
-<br>
+<p align="center">
+  <img src="YOUR_WORKING_STREAK_URL" />
+</p>
+
+<p align="center">
+  <img src="YOUR_WORKING_ACTIVITY_GRAPH_URL" />
+</p>
+
+<div align="center">
+
+> *"Every expert was once a beginner. Every line of code is a step toward innovation."* 💜
+
+</div>
 
 <!-- ====================================================== -->
 <!--                  GITHUB STREAK                         -->
@@ -303,6 +290,7 @@ Learning, contributing, and collaborating with the developer community.
 <br>
 
 <p align="center">
+  
 <img src="https://github-profile-trophy.vercel.app/?username=PRAJITHAMARY&theme=algolia&no-frame=true&no-bg=true&margin-w=10"/>
 </p>
 
@@ -325,43 +313,6 @@ Learning, contributing, and collaborating with the developer community.
 
 <br>
 
-<!-- ====================================================== -->
-<!--                 FEATURED PROJECTS                      -->
-<!-- ====================================================== -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=CBA6F7&height=2&section=header"/>
-
-<h2 align="center">🚀 Featured Projects</h2>
-
-<p align="center">
-A selection of projects that showcase my skills in software development, AI, machine learning, and data analytics.
-</p>
-
-<p align="center">
-
-<a href="https://github.com/PRAJITHAMARY/YOUR_REPO_NAME">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=PRAJITHAMARY&repo=YOUR_REPO_NAME&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/PRAJITHAMARY/YOUR_REPO_NAME2">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=PRAJITHAMARY&repo=YOUR_REPO_NAME2&theme=tokyonight&hide_border=true"/>
-</a>
-
-</p>
-
-<p align="center">
-
-<a href="https://github.com/PRAJITHAMARY/YOUR_REPO_NAME3">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=PRAJITHAMARY&repo=YOUR_REPO_NAME3&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/PRAJITHAMARY/YOUR_REPO_NAME4">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=PRAJITHAMARY&repo=YOUR_REPO_NAME4&theme=tokyonight&hide_border=true"/>
-</a>
-
-</p>
-
-<br>
 
 <!-- ====================================================== -->
 <!--                  CERTIFICATIONS                        -->
