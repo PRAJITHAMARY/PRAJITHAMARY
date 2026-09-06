@@ -242,8 +242,9 @@ Learning, contributing, and collaborating with the developer community.
 
 <br>
 
-
-## 📊 GitHub Analytics
+<!-- ====================================================== -->
+<!--                 GITHUB ANALYTICS                       -->
+<!-- ====================================================== -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=CBA6F7&height=2&section=header"/>
 
@@ -254,19 +255,22 @@ Learning, contributing, and collaborating with the developer community.
 </p>
 
 <p align="center">
-  <img src="YOUR_WORKING_STATS_URL" height="180"/>
-  <img src="YOUR_WORKING_LANGUAGES_URL" height="180"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=PRAJITHAMARY&show_icons=true&theme=dark&hide_border=true&title_color=CBA6F7&icon_color=9D4EDD"
+    height="180"
+    alt="Prajitha's GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="YOUR_WORKING_STREAK_URL" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRAJITHAMARY&layout=compact&theme=dark&hide_border=true&title_color=CBA6F7"
+    height="180"
+    alt="Top Languages"
+  />
 </p>
 
-<p align="center">
-  <img src="YOUR_WORKING_ACTIVITY_GRAPH_URL" />
-</p>
-
-<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=CBA6F7&height=2&section=header"/>
 
 > *"Every expert was once a beginner. Every line of code is a step toward innovation."* 💜
 
@@ -278,14 +282,12 @@ Learning, contributing, and collaborating with the developer community.
 
 <h2 align="center">🔥 GitHub Streak</h2>
 
-<p align="center">
-
+  <p align="center">
   <img
     src="https://streak-stats.demolab.com?user=PRAJITHAMARY&theme=dark&hide_border=true&background=0D1117&ring=CBA6F7&fire=9D4EDD&currStreakLabel=CBA6F7&sideLabels=CBA6F7&dates=B8B8C2"
     alt="GitHub Streak"
   />
-
-</p>
+  </p>
 
 <br>
 
@@ -302,14 +304,12 @@ Learning, contributing, and collaborating with the developer community.
 
 <h2 align="center">📈 Contribution Activity</h2>
 
-<p align="center">
-
+  <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=PRAJITHAMARY&bg_color=0D1117&color=CBA6F7&line=9D4EDD&point=F5F3FF&area=true&hide_border=true"
     alt="GitHub Activity Graph"
   />
-
-</p>
+  </p>
 
 <br>
 
