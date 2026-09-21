@@ -1,14 +1,16 @@
-<p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=CBA6F7&height=100&section=footer"/>
-</p>
+
 
 <!-- =============================== -->
 <!--      PRAJITHA MARY J PROFILE     -->
 <!-- =============================== -->
 
-<h1 align="center">
-  Hi 👋, I'm Prajitha Mary J
-</h1>
+<!-- ===================== HEADER ===================== -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E6E6FA,50:B57EDC,100:8A2BE2&height=220&section=header&text=PRAJITHA%20MARY&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" width="100%"/>
+</p>
+
+---
 
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=CBA6F7&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;Data+Analyst;Artificial+Intelligence+Enthusiast;Machine+Learning+Developer;Full+Stack+Developer;Open+Source+Contributor;Building+solutions+with+creativity+and+code+%F0%9F%92%9C" />
